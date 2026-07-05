@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ig-purple: #833ab4;
+  --color-ig-pink: #e1306c;
+  --color-ig-orange: #fd8d32;
+  --color-good: #22c55e;
+  --color-mid: #eab308;
+  --color-bad: #ef4444;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #0f172a;
+  color: #e2e8f0;
+  font-family: system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
