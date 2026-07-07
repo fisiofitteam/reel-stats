@@ -1,0 +1,509 @@
+{
+  "generatedAt": "2026-07-07T11:10:49.877731+00:00",
+  "totalReels": 30,
+  "avgEngagementRate": 0.0209,
+  "bestReelId": "3904057131378709003",
+  "worstReelId": "3896936727136916267",
+  "byTopic": [
+    {
+      "key": "gimnasia",
+      "count": 1,
+      "avgViews": 24827,
+      "avgLikes": 359,
+      "avgComments": 524,
+      "avgEngagementRate": 0.0356
+    },
+    {
+      "key": "tobillo",
+      "count": 1,
+      "avgViews": 29064,
+      "avgLikes": 1018,
+      "avgComments": 1,
+      "avgEngagementRate": 0.0351
+    },
+    {
+      "key": "estabilidad",
+      "count": 3,
+      "avgViews": 16665,
+      "avgLikes": 534,
+      "avgComments": 10,
+      "avgEngagementRate": 0.0349
+    },
+    {
+      "key": "ejercicios",
+      "count": 1,
+      "avgViews": 13364,
+      "avgLikes": 437,
+      "avgComments": 21,
+      "avgEngagementRate": 0.0343
+    },
+    {
+      "key": "masaje",
+      "count": 2,
+      "avgViews": 63419,
+      "avgLikes": 2402,
+      "avgComments": 34,
+      "avgEngagementRate": 0.0339
+    },
+    {
+      "key": "técnica de levantamiento",
+      "count": 1,
+      "avgViews": 35461,
+      "avgLikes": 1122,
+      "avgComments": 7,
+      "avgEngagementRate": 0.0318
+    },
+    {
+      "key": "entrenamiento funcional",
+      "count": 1,
+      "avgViews": 35461,
+      "avgLikes": 1122,
+      "avgComments": 7,
+      "avgEngagementRate": 0.0318
+    },
+    {
+      "key": "recuperación muscular",
+      "count": 1,
+      "avgViews": 12836,
+      "avgLikes": 360,
+      "avgComments": 2,
+      "avgEngagementRate": 0.0282
+    },
+    {
+      "key": "foam rolling",
+      "count": 1,
+      "avgViews": 12836,
+      "avgLikes": 360,
+      "avgComments": 2,
+      "avgEngagementRate": 0.0282
+    },
+    {
+      "key": "calentamiento",
+      "count": 1,
+      "avgViews": 67490,
+      "avgLikes": 1836,
+      "avgComments": 8,
+      "avgEngagementRate": 0.0273
+    },
+    {
+      "key": "fuerza",
+      "count": 1,
+      "avgViews": 67490,
+      "avgLikes": 1836,
+      "avgComments": 8,
+      "avgEngagementRate": 0.0273
+    },
+    {
+      "key": "halterofilia",
+      "count": 1,
+      "avgViews": 67490,
+      "avgLikes": 1836,
+      "avgComments": 8,
+      "avgEngagementRate": 0.0273
+    },
+    {
+      "key": "foam roller",
+      "count": 1,
+      "avgViews": 13430,
+      "avgLikes": 280,
+      "avgComments": 86,
+      "avgEngagementRate": 0.0273
+    },
+    {
+      "key": "crosstraining",
+      "count": 3,
+      "avgViews": 12487,
+      "avgLikes": 228,
+      "avgComments": 31,
+      "avgEngagementRate": 0.0273
+    },
+    {
+      "key": "movilidad",
+      "count": 5,
+      "avgViews": 14056,
+      "avgLikes": 395,
+      "avgComments": 25,
+      "avgEngagementRate": 0.0268
+    },
+    {
+      "key": "fitness",
+      "count": 6,
+      "avgViews": 47346,
+      "avgLikes": 1173,
+      "avgComments": 73,
+      "avgEngagementRate": 0.0265
+    },
+    {
+      "key": "rehabilitación",
+      "count": 6,
+      "avgViews": 7645,
+      "avgLikes": 146,
+      "avgComments": 10,
+      "avgEngagementRate": 0.0252
+    },
+    {
+      "key": "lesiones de hombro",
+      "count": 2,
+      "avgViews": 17310,
+      "avgLikes": 246,
+      "avgComments": 263,
+      "avgEngagementRate": 0.0247
+    },
+    {
+      "key": "dolor lumbar",
+      "count": 5,
+      "avgViews": 22226,
+      "avgLikes": 174,
+      "avgComments": 87,
+      "avgEngagementRate": 0.0246
+    },
+    {
+      "key": "crossfit",
+      "count": 5,
+      "avgViews": 8267,
+      "avgLikes": 160,
+      "avgComments": 10,
+      "avgEngagementRate": 0.0239
+    },
+    {
+      "key": "snatch",
+      "count": 2,
+      "avgViews": 21740,
+      "avgLikes": 612,
+      "avgComments": 6,
+      "avgEngagementRate": 0.0226
+    },
+    {
+      "key": "lesiones deportivas",
+      "count": 7,
+      "avgViews": 23617,
+      "avgLikes": 745,
+      "avgComments": 14,
+      "avgEngagementRate": 0.0217
+    },
+    {
+      "key": "prevención de lesiones",
+      "count": 2,
+      "avgViews": 45176,
+      "avgLikes": 1098,
+      "avgComments": 6,
+      "avgEngagementRate": 0.0217
+    },
+    {
+      "key": "identidad atlética",
+      "count": 1,
+      "avgViews": 2412,
+      "avgLikes": 49,
+      "avgComments": 1,
+      "avgEngagementRate": 0.0207
+    },
+    {
+      "key": "mentalidad deportiva",
+      "count": 1,
+      "avgViews": 2412,
+      "avgLikes": 49,
+      "avgComments": 1,
+      "avgEngagementRate": 0.0207
+    },
+    {
+      "key": "recuperación",
+      "count": 7,
+      "avgViews": 42392,
+      "avgLikes": 781,
+      "avgComments": 168,
+      "avgEngagementRate": 0.0202
+    },
+    {
+      "key": "entrenamiento",
+      "count": 12,
+      "avgViews": 31409,
+      "avgLikes": 362,
+      "avgComments": 119,
+      "avgEngagementRate": 0.0189
+    },
+    {
+      "key": "CrossFit",
+      "count": 8,
+      "avgViews": 30348,
+      "avgLikes": 964,
+      "avgComments": 12,
+      "avgEngagementRate": 0.0181
+    },
+    {
+      "key": "dolor de hombro",
+      "count": 5,
+      "avgViews": 33752,
+      "avgLikes": 194,
+      "avgComments": 107,
+      "avgEngagementRate": 0.0177
+    },
+    {
+      "key": "salud mental",
+      "count": 2,
+      "avgViews": 13210,
+      "avgLikes": 189,
+      "avgComments": 6,
+      "avgEngagementRate": 0.0174
+    },
+    {
+      "key": "salud",
+      "count": 1,
+      "avgViews": 10116,
+      "avgLikes": 148,
+      "avgComments": 22,
+      "avgEngagementRate": 0.0168
+    },
+    {
+      "key": "rodilla",
+      "count": 1,
+      "avgViews": 10116,
+      "avgLikes": 148,
+      "avgComments": 22,
+      "avgEngagementRate": 0.0168
+    },
+    {
+      "key": "fisioterapia online",
+      "count": 1,
+      "avgViews": 22861,
+      "avgLikes": 361,
+      "avgComments": 4,
+      "avgEngagementRate": 0.016
+    },
+    {
+      "key": "biomecánica",
+      "count": 1,
+      "avgViews": 22861,
+      "avgLikes": 361,
+      "avgComments": 4,
+      "avgEngagementRate": 0.016
+    },
+    {
+      "key": "neurociencia",
+      "count": 1,
+      "avgViews": 24008,
+      "avgLikes": 329,
+      "avgComments": 10,
+      "avgEngagementRate": 0.0141
+    },
+    {
+      "key": "recuperación deportiva",
+      "count": 1,
+      "avgViews": 9792,
+      "avgLikes": 133,
+      "avgComments": 2,
+      "avgEngagementRate": 0.0138
+    },
+    {
+      "key": "entrenamiento progresivo",
+      "count": 1,
+      "avgViews": 9792,
+      "avgLikes": 133,
+      "avgComments": 2,
+      "avgEngagementRate": 0.0138
+    },
+    {
+      "key": "pull-ups",
+      "count": 1,
+      "avgViews": 23113,
+      "avgLikes": 287,
+      "avgComments": 7,
+      "avgEngagementRate": 0.0127
+    },
+    {
+      "key": "entrenamiento adaptado",
+      "count": 1,
+      "avgViews": 23113,
+      "avgLikes": 287,
+      "avgComments": 7,
+      "avgEngagementRate": 0.0127
+    },
+    {
+      "key": "hernia lumbar",
+      "count": 1,
+      "avgViews": 11332,
+      "avgLikes": 134,
+      "avgComments": 6,
+      "avgEngagementRate": 0.0124
+    },
+    {
+      "key": "dolor de espalda",
+      "count": 1,
+      "avgViews": 11332,
+      "avgLikes": 134,
+      "avgComments": 6,
+      "avgEngagementRate": 0.0124
+    },
+    {
+      "key": "lesiones",
+      "count": 5,
+      "avgViews": 8007,
+      "avgLikes": 104,
+      "avgComments": 6,
+      "avgEngagementRate": 0.0119
+    },
+    {
+      "key": "tendinopatía rotuliana",
+      "count": 1,
+      "avgViews": 9242,
+      "avgLikes": 92,
+      "avgComments": 7,
+      "avgEngagementRate": 0.0107
+    },
+    {
+      "key": "dolor de rodilla",
+      "count": 2,
+      "avgViews": 6432,
+      "avgLikes": 62,
+      "avgComments": 5,
+      "avgEngagementRate": 0.0103
+    },
+    {
+      "key": "recuperación atlética",
+      "count": 1,
+      "avgViews": 3622,
+      "avgLikes": 33,
+      "avgComments": 3,
+      "avgEngagementRate": 0.0099
+    },
+    {
+      "key": "incertidumbre",
+      "count": 1,
+      "avgViews": 3622,
+      "avgLikes": 33,
+      "avgComments": 3,
+      "avgEngagementRate": 0.0099
+    },
+    {
+      "key": "recuperación física",
+      "count": 1,
+      "avgViews": 4185,
+      "avgLikes": 37,
+      "avgComments": 2,
+      "avgEngagementRate": 0.0093
+    },
+    {
+      "key": "confianza corporal",
+      "count": 1,
+      "avgViews": 4185,
+      "avgLikes": 37,
+      "avgComments": 2,
+      "avgEngagementRate": 0.0093
+    },
+    {
+      "key": "fisioterapia",
+      "count": 2,
+      "avgViews": 70933,
+      "avgLikes": 166,
+      "avgComments": 250,
+      "avgEngagementRate": 0.0092
+    },
+    {
+      "key": "cross training",
+      "count": 1,
+      "avgViews": 91700,
+      "avgLikes": 491,
+      "avgComments": 343,
+      "avgEngagementRate": 0.0091
+    },
+    {
+      "key": "activación muscular",
+      "count": 1,
+      "avgViews": 91700,
+      "avgLikes": 491,
+      "avgComments": 343,
+      "avgEngagementRate": 0.0091
+    },
+    {
+      "key": "dolor",
+      "count": 2,
+      "avgViews": 12108,
+      "avgLikes": 164,
+      "avgComments": 5,
+      "avgEngagementRate": 0.007
+    },
+    {
+      "key": "valoración exhaustiva",
+      "count": 1,
+      "avgViews": 117858,
+      "avgLikes": 3,
+      "avgComments": 490,
+      "avgEngagementRate": 0.0042
+    }
+  ],
+  "byFormat": [
+    {
+      "key": "tutorial",
+      "count": 10,
+      "avgViews": 31287,
+      "avgLikes": 607,
+      "avgComments": 102,
+      "avgEngagementRate": 0.025
+    },
+    {
+      "key": "talking-head",
+      "count": 10,
+      "avgViews": 17174,
+      "avgLikes": 548,
+      "avgComments": 9,
+      "avgEngagementRate": 0.0215
+    },
+    {
+      "key": "testimonial",
+      "count": 1,
+      "avgViews": 10116,
+      "avgLikes": 148,
+      "avgComments": 22,
+      "avgEngagementRate": 0.0168
+    },
+    {
+      "key": "entrevista",
+      "count": 1,
+      "avgViews": 24008,
+      "avgLikes": 329,
+      "avgComments": 10,
+      "avgEngagementRate": 0.0141
+    },
+    {
+      "key": "storytime",
+      "count": 3,
+      "avgViews": 46144,
+      "avgLikes": 76,
+      "avgComments": 168,
+      "avgEngagementRate": 0.0091
+    }
+  ],
+  "byHookType": [
+    {
+      "key": "pregunta",
+      "count": 3,
+      "avgViews": 29129,
+      "avgLikes": 834,
+      "avgComments": 4,
+      "avgEngagementRate": 0.0276
+    },
+    {
+      "key": "dato-shock",
+      "count": 9,
+      "avgViews": 23576,
+      "avgLikes": 355,
+      "avgComments": 52,
+      "avgEngagementRate": 0.0212
+    },
+    {
+      "key": "polemica",
+      "count": 5,
+      "avgViews": 11938,
+      "avgLikes": 219,
+      "avgComments": 11,
+      "avgEngagementRate": 0.0199
+    },
+    {
+      "key": "historia-personal",
+      "count": 8,
+      "avgViews": 37238,
+      "avgLikes": 683,
+      "avgComments": 138,
+      "avgEngagementRate": 0.0187
+    }
+  ]
+}
